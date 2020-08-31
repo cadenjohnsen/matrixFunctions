@@ -87,6 +87,7 @@ invalidFile () {
 	exit 1
 }
 
+
 # gets number of command line argmuents
 arg_num=`expr $#`
 
